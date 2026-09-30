@@ -1,8 +1,8 @@
 {
-  "version": "0.42",
-  "tag": "v0.42",
-  "file": "v0.42.zip",
-  "download_url": "https://github.com/fahrettinshouse/flashb-updates/releases/download/v0.42/v0.42.zip",
-  "sha256": "78efe8f5e3a53d808acbafacf519490dda4a3784f558ba6da34b6540070017b4",
-  "published_at": "2026-09-30"
+    "version":  "0.45",
+    "tag":  "v0.45",
+    "file":  "v0.45.zip",
+    "download_url":  "https://github.com/fahrettinshouse/flashb-updates/releases/download/v0.45/v0.45.zip",
+    "sha256":  "a6be95e97c097ed310fd1eda1dd1227be69665eec22a0635a8869cd43cf11b36",
+    "published_at":  "2026-09-30T18:59:50Z"
 }
